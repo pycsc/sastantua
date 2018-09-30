@@ -6,13 +6,13 @@
 #    By: lucas <lucas@tsiaraso.com>                   +########+               #
 #                                                           +###+              #
 #    Created: 2018/09/26 20:06:55 by lucas                   ##+               #
-#    Updated: 2018/09/26 20:06:55 by lucas                  #+                 #
+#    Updated: 2018/09/30 18:32:04 by lucas                  #+                 #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = sastantua
 
-CC = gcc
+CC = cc
 
 CFLAGS = -Wall -Wextra -Werror
 
